@@ -1,0 +1,31 @@
+#board
+{
+    border-collapse: collapse;
+    margin: auto; 
+    margin-top: 200px; 
+}
+#board td 
+{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    padding:10px 15px; 
+    color:white;
+    font-size:40px;
+    border: 3px solid #ff3077; 
+}
+* 
+{
+   padding: 0px;
+   margin:0px; 
+   background-color:#091921;
+}
+h1,p
+{
+   text-align: center; 
+   font-size: 60px; 
+   color:#ff3077; 
+   position:relative;
+   top:150px;
+} 
